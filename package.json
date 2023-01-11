@@ -15,7 +15,7 @@
     "@feathersjs/socketio": "^4.3.10",
     "cors": "^2.8.5",
     "feathers-knex": "^7.1.0",
-    "knex": "^0.20.1",
+    "knex": "^2.4.0",
     "moment": "^2.24.0",
     "sqlite3": "^4.1.0"
   }
